@@ -1,0 +1,10 @@
+//For lesson 6:
+string firstName = "Boobbbyyy";
+int number = 200;
+double temp = 19.9;
+Console.WriteLine($" hey, {firstName}! You have {number} messages in your inbox. The tempurture is {temp} celsuis.");
+//Here I learned how to make a sentence
+//Lesson 5:
+var message = "Gurmeet";
+var message = "20.7"
+//I learned that var infers the data type of the variable.
