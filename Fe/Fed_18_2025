@@ -1,0 +1,5 @@
+char userOptions;
+in GamesScore;
+decimal partcialesPerMillion;
+bool processCustomer
+//I learned about variables
